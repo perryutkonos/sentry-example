@@ -1,0 +1,1 @@
+npx sentry-cli releases files "test-react@test-selfhosted" upload-sourcemaps build --url-prefix '~/' --log-level=debug

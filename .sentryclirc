@@ -1,0 +1,7 @@
+[auth]
+token=
+
+[defaults]
+org=adsterra
+project=test-react
+url=https://sentry.developzilla.com/
