@@ -1,5 +1,5 @@
 [auth]
-token=
+token=empty
 
 [defaults]
 org=adsterra
