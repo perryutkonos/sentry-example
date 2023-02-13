@@ -1,0 +1,28 @@
+# Настройки IDE
+.idea/
+.vscode/
+.atom/
+
+# Зависимости
+node_modules
+
+# Настройки инфраструктуры
+skaffold.yaml
+skaffold.yml
+.env
+# exploer for Mac
+.DS_Store
+
+# Отчеты
+reports
+
+# Бандл сборки - старое удалить
+storybook-static
+
+
+# Не разобрано
+*.iml
+.scannerwork
+*/*.log
+**/pkgbuild/*
+.cache/
