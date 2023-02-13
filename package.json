@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "run": "sh send-sentry.sh"
+    "start": "sh send-sentry.sh"
   },
   "dependencies": {
     "@sentry/cli": "^2.12.0"
